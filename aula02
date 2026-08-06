@@ -1,0 +1,17 @@
+public class aula02 {
+    public static void main(String[] args)
+{ String nome = "Notebook";
+double preco = 3500.00;
+int quantidade = 2;
+double precoTotal = quantidade * preco;
+System.out.println("relatório de vendas");
+System.out.println("produto: " + nome);
+System.out.println("preço: " + preco);
+System.out.println("quantidade: " + quantidade);
+System.out.println("preço total: " + precoTotal);
+System.out.printf("Produto: %s\n", nome);
+System.out.printf("Preço: %.2f\n", preco);
+System.out.printf("Quantidade: %d\n", quantidade);
+System.out.printf("Preço Total: %.2f\n", precoTotal);
+}
+}
