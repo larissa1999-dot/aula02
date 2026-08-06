@@ -1,0 +1,9 @@
+public class Aula02Atv04 {  
+    public static void main(String[] args) {
+        int Prova01 = 8;
+        int prova02 = 5;
+        int prova03 = 9;
+        int prova04 = 7;
+        double media = (Prova01 + prova02 + prova03 + prova04) / 4.0;
+        System.out.println("Média: " + media);
+    }}
