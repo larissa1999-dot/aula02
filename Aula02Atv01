@@ -1,0 +1,8 @@
+public class Aula02Atv01 {
+    public static void main(String[] args) {
+        String nome = "Larissa";
+                System.out.printf("Nome: %s\n", nome);
+        
+    }
+    
+}
