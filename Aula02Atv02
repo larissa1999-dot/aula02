@@ -1,0 +1,9 @@
+public class Aula02Atv02 {
+    public static void main(String[] args) {
+        String nome = "Larissa";
+        double idade = 27;
+        
+        System.out.printf("Nome: %s\n", nome);
+        System.out.printf("Idade: %.1f\n", idade);
+    }
+}
